@@ -63,11 +63,11 @@ in this GitHub repository.
 
 ## Power BI Dashboard
 
-The interactive Power BI dashboard was created using the analyzed flight dataset.
+The Power BI dashboard was created using the US Flight Delays dataset.
 
-The `.pbix` file is not included in this repository because it exceeds GitHub's file-size limit.
+The `.pbix` file is hosted externally because GitHub's file size limit prevented it from being uploaded directly.
 
-Dashboard screenshots are provided below.
+**Download/View Power BI Dashboard:** [US_Flight_Delay_Analysis.pbix](https://drive.google.com/file/d/1_dJW6YFKjmbYOq0FgUZtFD9EVDZ2j9ko/view?usp=sharing)
 
 ## Dashboard Preview
 
