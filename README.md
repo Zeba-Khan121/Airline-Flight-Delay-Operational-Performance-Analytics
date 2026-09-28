@@ -63,9 +63,11 @@ in this GitHub repository.
 
 ## Power BI Dashboard
 
-The project includes an interactive Power BI dashboard
-for exploring flight delays, airlines, airports, routes,
-monthly trends, and delay causes.
+The interactive Power BI dashboard was created using the analyzed flight dataset.
+
+The `.pbix` file is not included in this repository because it exceeds GitHub's file-size limit.
+
+Dashboard screenshots are provided below.
 
 ## Dashboard Preview
 
